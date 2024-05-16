@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MlmUAHNM1V26Qccav/pjolB6kGjRGkj5daSp3Z/iF1S8NTHaQXJ1lum3rmgpxYAILJta0IkwDDpiBHIQuZNJ4A==",
+  "success": true,
+  "projectFilePath": "/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/puneet/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/puneet/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/puneet/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/puneet/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/puneet/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

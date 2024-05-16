@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{612A1427-FD8C-42E5-9652-DE1B1074494D}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExtoleDemoApp.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_8_API_34_extension_level_7_arm64-v8a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtoleDemoApp/ExtoleDemoApp.Android/MainActivity.cs">
+    <Files>
+      <File FileName="ExtoleDemoApp/ExtoleDemoApp.Android/MainActivity.cs" Line="62" Column="87" />
+      <File FileName="ExtoleDemoApp/ExtoleDemoApp.Android/SecondActivity.cs" Line="8" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExtoleDemoApp" expanded="True">
+            <Node name="ExtoleDemoApp.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp.Android/SecondActivity.cs" relfile="ExtoleDemoApp/ExtoleDemoApp.Android/SecondActivity.cs" line="26" column="1" />
+      <Breakpoint file="/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp.Android/MainActivity.cs" relfile="ExtoleDemoApp/ExtoleDemoApp.Android/MainActivity.cs" line="45" column="1" />
+      <Breakpoint file="/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp.Android/SecondActivity.cs" relfile="ExtoleDemoApp/ExtoleDemoApp.Android/SecondActivity.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExtoleDemoApp.Android PreferredExecutionTarget="Android.Pixel_8_API_34_extension_level_7_arm64-v8a" AndroidDesignerPreferredTheme="MainTheme" />
+</Properties>

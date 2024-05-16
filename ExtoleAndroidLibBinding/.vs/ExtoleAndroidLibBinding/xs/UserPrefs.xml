@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{803D43F0-6EF9-4263-9507-D7ADDBBA4222}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExtoleAndroidLibBinding" expanded="True" selected="True">
+            <Node name="ExtoleAndroidLibBinding" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Jars" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Transforms" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.ExtoleAndroidLibBinding PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

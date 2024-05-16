@@ -1,0 +1,3 @@
+rootProject.name = "ExtoleAndroidSdk"
+include ':app'
+include ':mobile-sdk'

@@ -1,0 +1,15 @@
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/bin/Debug/netstandard2.0/ExtoleDemoApp.deps.json
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/bin/Debug/netstandard2.0/ExtoleDemoApp.dll
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/bin/Debug/netstandard2.0/ref/ExtoleDemoApp.dll
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/bin/Debug/netstandard2.0/ExtoleDemoApp.pdb
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/ExtoleDemoApp.csproj.AssemblyReference.cache
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/ExtoleDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/ExtoleDemoApp.AssemblyInfoInputs.cache
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/ExtoleDemoApp.AssemblyInfo.cs
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/ExtoleDemoApp.csproj.CoreCompileInputs.cache
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/ExtoleDemoApp.dll
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/refint/ExtoleDemoApp.dll
+/Users/puneet/Projects/ExtoleDemoApp/ExtoleDemoApp/ExtoleDemoApp/obj/Debug/netstandard2.0/ExtoleDemoApp.pdb
